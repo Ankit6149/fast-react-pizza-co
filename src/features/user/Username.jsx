@@ -5,7 +5,7 @@ function Username() {
 
   if (!username) return null;
   return (
-    <div className="hidden flex items-center justify-center gap-2">
+    <div className="hidden items-center justify-center gap-2 md:flex">
       <img
         height="24"
         width="24"
