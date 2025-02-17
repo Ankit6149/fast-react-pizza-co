@@ -10,7 +10,6 @@ function Menu() {
       {menu.map((pizza) => (
         <MenuItem pizza={pizza} key={pizza.id} />
       ))}
-      Menu
     </ul>
   );
 }
