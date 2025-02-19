@@ -27,3 +27,5 @@
 ### Menu
 ![image](https://github.com/user-attachments/assets/34d938ab-c5b3-4bf0-beb3-7f9e86b76414)
 
+### Cart
+![image](https://github.com/user-attachments/assets/83102a19-7239-4a53-80ba-82b9d23730ed)
