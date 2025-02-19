@@ -19,3 +19,7 @@
 - **Form Handling**: React Hook Form  
 - **HTTP Requests**: React Query  
 - **Deployment**: Vercel  
+
+## Screenshots
+# Home
+![image](https://github.com/user-attachments/assets/007350ad-d323-4d9c-bfc1-b5cd8da14168)
