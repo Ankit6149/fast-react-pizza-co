@@ -23,3 +23,7 @@
 ## Screenshots
 ### Home
 ![image](https://github.com/user-attachments/assets/007350ad-d323-4d9c-bfc1-b5cd8da14168)
+
+### Menu
+![image](https://github.com/user-attachments/assets/aec948d9-862a-4caa-885d-1085e1c8ef37)
+
