@@ -29,3 +29,12 @@
 
 ### Cart
 ![image](https://github.com/user-attachments/assets/83102a19-7239-4a53-80ba-82b9d23730ed)
+
+### New Order
+![image](https://github.com/user-attachments/assets/a084acc8-d804-48b7-897e-e1966503e6b7)
+
+### Order Summary
+![image](https://github.com/user-attachments/assets/09ec0ffe-f3d4-4234-b14a-e1af948b3b6d)
+
+### Search Order by Order ID
+![image](https://github.com/user-attachments/assets/2fa17990-01ca-4738-98d1-db7741049380)
